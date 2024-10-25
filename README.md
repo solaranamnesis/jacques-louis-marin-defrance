@@ -8,10 +8,3 @@ French - Plain Text
 French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design  
 English - Plain Text  
 English - PDF  
-
-## Pourpre.
-
-[French - Plain Text](pourpre/full-text-french.md)  
-French - PDF | Biolinum | Atkinson | Cursive | Kerkis | CustomPurplePaper | CustomMurex1  
-English - Plain Text  
-English - PDF  
